@@ -1,0 +1,17 @@
+version: "3.3"
+
+# Do not forget that the only available 
+# selenium hub image is accessible with the following url:
+# registry.gitlab.com/qio/standard/selenium/hub:4.10.0
+
+# Do not forget that the only available 
+# selenium node-chrome image is accessible with the following url:
+# registry.gitlab.com/qio/standard/selenium/node-chrome:4.10.0
+
+# Do not forget that the only available 
+# selenium node-firefox image is accessible with the following url:
+# registry.gitlab.com/qio/standard/selenium/node-firefox:4.10.0
+
+# Do not forget that the only available 
+# nginx image is accessible with the following url:
+# registry.gitlab.com/qio/standard/nginx:1.20.2-alpine
